@@ -13,6 +13,8 @@ To get a sense of the result, I printed out the words most assigned to each topi
 
 At the top, I put my guesses for what each topic may be representing.
 
+[Explore my topic model interactively using the visualization at the bottom of this notebook](https://nbviewer.jupyter.org/github/vsoni1/DI_submit/blob/master/Reddit%20Topic%20Modeling%20notebook.ipynb)
+
 # Reddit Titles
 Reddit Titles is an old notebook exploring classifying the success of titles for a reddit submission.
 I tried it out on the 'kanye' subreddit for now since it is quite active, it's about a controversial figure, and the community has a unique lexicon they've adopted. 
